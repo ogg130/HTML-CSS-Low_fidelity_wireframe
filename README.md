@@ -4,8 +4,7 @@ Basic quasi-Responsive low-fidelity HTML and CSS wireframe designed in under a d
 
 The purpose of this project is to provide a basic wireframe used do prototype the UI/UX of a site for agile development. 
 
-The site is designed using the persona of Jack (see /Persona-Jack.pdf), a retiree who will be making a return visit to the island with his wife on his second honeymoon, as a guideline for the sites navigation elements and look and feel. 
+The site is designed using the persona of Jack ([Jacks Persona Profile](https://github.com/ogg130/low_fidelity_html_css_wireframe/blob/master/Persona-Jack.pdf)), a retiree who will be making a return visit to the island with his wife on his second honeymoon, as a guideline for the sites navigation elements and look and feel. 
 
 ![Wireframe Preview](https://github.com/ogg130/low_fidelity_html_css_wireframe/blob/master/preview.png)
-![Jacks Persona Profile](https://github.com/ogg130/low_fidelity_html_css_wireframe/blob/master/Persona-Jack.pdf)
 
