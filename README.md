@@ -1,2 +1,3 @@
 # tourismprototype
-This is a basic responsive HTML5 and CSS prototype wireframe for a tourism website that was designed for a college project.
+
+Basic quasi-Responsive HTML and CSS wireframe designed in a day for a college course project to make a wireframe for a tourism website.
